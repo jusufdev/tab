@@ -1,0 +1,11 @@
+.body {
+  background: url(./image/img.png);
+  background-size: 100%;
+}
+.window {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  min-width: 100vh;
+  background: #000;
+}
